@@ -1,5 +1,6 @@
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css");
-
+@import url('https://fonts.cdnfonts.com/css/poppins');
+                
 div[class^='css-1544g2n'] { padding-top: 1rem; }
 div[class^='block-container'] { padding-top: 1rem; }
 
