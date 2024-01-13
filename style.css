@@ -15,7 +15,7 @@ div[class^='block-container'] { padding-top: 1rem; }
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Pretendard', 'Poppins', sans-serif;
+    font-family: 'Pretendard', sans-serif;
     font-weight: 100;
 }
 
