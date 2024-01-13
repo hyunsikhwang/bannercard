@@ -15,13 +15,15 @@ div[class^='block-container'] { padding-top: 1rem; }
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
-    /* font-family: 'Pretendard', sans-serif; */
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Pretendard', sans-serif;
+    font-weight: 100;
 }
 
 body {
-  /* font-family: 'Pretendard'; */
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Pretendard';
+  font-weight: 100;
+  /* font-family: 'Poppins', sans-serif; */
 }
 
 .main-container {

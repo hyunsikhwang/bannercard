@@ -21,7 +21,7 @@ https://dribbble.com/shots/14101951-Banners
 -->
 <div class="main-container">
   <div class="heading">
-    <h1 class="heading__title"><span style="font-family: Pretendard;font-weight:100;">Gradient Banner Cards</span><span style="font-family: Pretendard;font-weight:100;">그래디언트 배너 카드</span></h1>
+    <h1 class="heading__title"><span style="font-family: Poppins;">Gradient Banner Cards</span>그래디언트 배너 카드</h1>
     <p class="heading__credits"><a class="heading__link" target="_blank" href="https://dribbble.com/sl">Design by Simon Lurwer on Dribbble</a></p>
   </div>
   <div class="cards">
