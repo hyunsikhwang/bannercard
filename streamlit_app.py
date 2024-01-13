@@ -7,7 +7,7 @@ def local_css(file_name):
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 st.set_page_config(page_title="Gradient Banner Card",
-                   page_icon=":random:",
+                   page_icon="random",
                    layout='wide')
 
 local_css("style.css")
@@ -21,7 +21,7 @@ https://dribbble.com/shots/14101951-Banners
 -->
 <div class="main-container">
   <div class="heading">
-    <h1 class="heading__title">Gradient Banner Cards</h1>
+    <h1 class="heading__title"><span style="font-weight:600">Gradient Banner Cards</span></h1>
     <p class="heading__credits"><a class="heading__link" target="_blank" href="https://dribbble.com/sl">Design by Simon Lurwer on Dribbble</a></p>
     <p class="heading__credits">그래디언트 배너 카드</p>
   </div>
