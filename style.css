@@ -4,6 +4,12 @@
 div[class^='css-1544g2n'] { padding-top: 1rem; }
 div[class^='block-container'] { padding-top: 1rem; }
 
+@font-face {
+  font-family: 'Pretendard';
+  src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
 
 * {
     margin: 0;
