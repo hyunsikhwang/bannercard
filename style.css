@@ -11,7 +11,7 @@ div[class^='block-container'] { padding-top: 1rem; }
 }
 
 
-html,body {
+.stMarkdown {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
