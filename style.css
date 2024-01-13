@@ -5,7 +5,7 @@ div[class^='block-container'] { padding-top: 2rem; }
 
 
 html, body, [class*="css"] {
-  font-family: 'Pretendard Variable'; 
+  font-family: 'Pretendard'; 
 }
 
 * {
