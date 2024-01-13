@@ -3,11 +3,15 @@
 div[class^='css-1544g2n'] { padding-top: 2rem; }
 div[class^='block-container'] { padding-top: 2rem; }
 
+
+html, body, [class*="css"] {
+  font-family: 'Pretendard Variable'; 
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font: "Pretendard"
   }
   
   body {
