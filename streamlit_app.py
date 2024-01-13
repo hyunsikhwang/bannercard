@@ -8,7 +8,7 @@ def local_css(file_name):
 
 local_css("style.css")
 
-components.html('''
+st.markdown('''
 <!-- 
 
 GRADIENT BANNER DESIGN BY SIMON LURWER ON DRIBBBLE:
