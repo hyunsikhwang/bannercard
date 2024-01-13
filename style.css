@@ -20,12 +20,6 @@ div[class^='block-container'] { padding-top: 1rem; }
     font-weight: 100;
 }
 
-/* body { */
-  /* font-family: 'Pretendard'; */
-  /* font-weight: 100; */
-  /* font-family: 'Poppins', sans-serif; */
-/* } */
-
 .main-container {
   padding: 30px;
 }
@@ -37,7 +31,7 @@ div[class^='block-container'] { padding-top: 1rem; }
 }
 
 .heading__title {
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-weight: 600;
 }
 
